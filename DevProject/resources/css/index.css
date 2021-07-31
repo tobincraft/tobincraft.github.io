@@ -1,0 +1,26 @@
+.banner {
+    background-color: blueviolet;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 50px 100px;
+}
+
+#small-unicorn {
+    height: 400px;
+    width: 400px;
+
+}
+
+#unicorn {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+#p1 {
+    font-size: 22px;
+}
